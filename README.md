@@ -21,6 +21,5 @@ Ontario, Canada
 
 📧 Get In Touch
 Email: ilorijonathan947@gmail.com
-LinkedIn: linkedin.com/in/jonathanilori
 
 Always building, always learning. Open to internships, junior dev roles, and collaboration.

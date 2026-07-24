@@ -22,4 +22,4 @@ Ontario, Canada
 📧 Get In Touch
 Email: ilorijonathan947@gmail.com
 
-Always building, always learning. Open to internships, junior dev roles, and collaboration.
+Always building, always learning. Open to junior dev roles, and collaboration.

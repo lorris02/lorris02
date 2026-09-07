@@ -1,8 +1,8 @@
 Hi I'm Jonathan Ilori
 
-Computer Programmer | Building software applications
+Computer Programmer
 
-I'm passionate about full-stack development, automation, and shipping projects that work. 
+I'm passionate about full stack development, automation, and shipping projects that work. 
 Currently learning React and diving deeper into system design while maintaining a VPS with multiple production bots.
 
  What I Build

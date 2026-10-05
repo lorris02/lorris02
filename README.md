@@ -1,6 +1,6 @@
 # 👨🏾‍💻 Jonathan Ilori
 
-### Software Development • QA & Software Testing UI/UX
+### Software Development • QA & Software Testing • UI/UX
 
 I build web applications, automation tools, and bots. I enjoy solving practical problems, understanding how systems work, and improving the reliability of what I build.
 

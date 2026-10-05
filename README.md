@@ -1,10 +1,8 @@
 # 👨🏾‍💻 Jonathan Ilori
 
-### Software Development • QA & Software Testing • IT Support
+### Software Development • QA & Software Testing UI/UX
 
 I build web applications, automation tools, and bots. I enjoy solving practical problems, understanding how systems work, and improving the reliability of what I build.
-
-Based in Ontario, Canada. Open to entry-level opportunities in software development, QA testing, and IT support.
 
 ---
 

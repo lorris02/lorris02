@@ -1,25 +1,47 @@
-Hi I'm Jonathan Ilori
+# 👨🏾‍💻 Jonathan Ilori
 
-Computer Programmer
+### Software Development • QA & Software Testing • IT Support
 
-I'm passionate about full stack development, automation, and shipping projects that work. 
-Currently learning React and diving deeper into system design while maintaining a VPS with multiple production bots.
+I build web applications, automation tools, and bots. I enjoy solving practical problems, understanding how systems work, and improving the reliability of what I build.
 
- What I Build
-AI agents — Autonomous security scanning, compliance proxies, intelligent automation
-Automation & bots — Telegram bots, web scrapers, real-time monitoring systems
+Based in Ontario, Canada. Open to entry-level opportunities in software development, QA testing, and IT support.
 
-Tech Stack
-Languages: JavaScript (Node.js), Python, HTML, CSS, SQL, 
-Frameworks & Tools: Express.js, React, FastAPI,MySQL
-DevOps: Linux VPS, PM2, Git, GitHub, REST APIs, WebSockets
+---
 
+## 🚀 What I Build
 
-📍 Location
-Ontario, Canada
+**Web Applications**  
+Applications with databases, authentication, and APIs.
 
+**Automation & Bots**  
+Telegram bots, scripts, web scrapers, and monitoring tools.
 
-📧 Get In Touch
-Email: ilorijonathan947@gmail.com
+**AI & Automation Tools**  
+Projects exploring AI agents, security scanning, and intelligent automation.
 
-Always building, always learning. Open to junior dev roles, and collaboration.
+---
+
+## 🛠️ What I Work With
+
+**Languages →** JavaScript • Python • C# • Java • PHP • SQL  
+**Web →** HTML • CSS • Node.js • Express • ASP.NET Core MVC • FastAPI  
+**Databases →** MySQL  
+**ORM →** Entity Framework Core  
+**Tools & Deployment →** Git • GitHub • Linux • VPS • PM2  
+**Integrations →** REST APIs • WebSockets
+
+---
+
+## 🧪 What I'm Learning
+
+QA automation with Selenium and Playwright, React, and system design.
+
+I'm interested in writing useful tests, investigating bugs, and building software that behaves reliably.
+
+---
+
+## 🌐 Find Me
+
+[Portfolio](https://jonathanilori.com/) • [Email](mailto:ilorijonathan947@gmail.com)
+
+Open to opportunities and collaboration.
